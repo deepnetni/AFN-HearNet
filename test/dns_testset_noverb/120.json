@@ -1,0 +1,5 @@
+{
+  "clean": "clean_fileid_107.wav",
+  "noisy": "clnsp211_bus_128120_10_snr19_tl-22_fileid_107.wav",
+  "HL": "[50.0, 60.0, 65.0, 70.0, 65.0, 65.0]"
+}

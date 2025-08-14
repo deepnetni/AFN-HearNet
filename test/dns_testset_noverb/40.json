@@ -1,0 +1,5 @@
+{
+  "clean": "clean_fileid_42.wav",
+  "noisy": "clnsp493_barking_208030_0_snr17_tl-26_fileid_42.wav",
+  "HL": "[95.0, 80.0, 90.0, 105.0, 100.0, 95.0]"
+}

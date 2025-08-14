@@ -1,0 +1,5 @@
+{
+  "clean": "clean_fileid_280.wav",
+  "noisy": "clnsp430_babble_188218_23_snr8_tl-22_fileid_280.wav",
+  "HL": "[60.0, 55.0, 55.0, 60.0, 60.0, 70.0]"
+}

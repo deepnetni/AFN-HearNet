@@ -1,0 +1,5 @@
+{
+  "clean": "clean_fileid_3.wav",
+  "noisy": "clnsp238_washer_389769_1_snr11_tl-20_fileid_3.wav",
+  "HL": "[20.0, 15.0, 25.0, 20.0, 25.0, 25.0]"
+}

@@ -1,0 +1,5 @@
+{
+  "clean": "clean_fileid_201.wav",
+  "noisy": "clnsp266_washer_246507_1_snr12_tl-24_fileid_201.wav",
+  "HL": "[90.0, 95.0, 100.0, 100.0, 100.0, 95.0]"
+}

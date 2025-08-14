@@ -1,0 +1,5 @@
+{
+  "clean": "clean_fileid_125.wav",
+  "noisy": "clnsp156_water_320289_2_snr3_tl-19_fileid_125.wav",
+  "HL": "[50.0, 50.0, 60.0, 70.0, 60.0, 60.0]"
+}

@@ -1,0 +1,5 @@
+{
+  "clean": "clean_fileid_220.wav",
+  "noisy": "clnsp393_chair_400385_0_snr9_tl-31_fileid_220.wav",
+  "HL": "[70.0, 75.0, 90.0, 90.0, 100.0, 100.0]"
+}

@@ -1,0 +1,5 @@
+{
+  "clean": "clean_fileid_210.wav",
+  "noisy": "clnsp74_fan_out_56236_0_snr9_tl-28_fileid_210.wav",
+  "HL": "[45.0, 35.0, 85.0, 115.0, 115.0, 115.0]"
+}

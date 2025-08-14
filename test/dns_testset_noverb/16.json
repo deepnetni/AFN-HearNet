@@ -1,0 +1,5 @@
+{
+  "clean": "clean_fileid_116.wav",
+  "noisy": "clnsp30_birds_121947_2_snr6_tl-27_fileid_116.wav",
+  "HL": "[20.0, 15.0, 25.0, 20.0, 25.0, 25.0]"
+}

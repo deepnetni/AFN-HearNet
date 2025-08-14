@@ -1,0 +1,5 @@
+{
+  "clean": "clean_fileid_45.wav",
+  "noisy": "clnsp312_Vi5bENnLJPs_snr15_tl-20_fileid_45.wav",
+  "HL": "[20.0, 30.0, 50.0, 80.0, 90.0, 75.0]"
+}
